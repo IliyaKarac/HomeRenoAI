@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#363636</color>
+    <color name="white_text">#fbffdc</color>
+    <color name="next">#008000</color>
+    <color name="back">#8b0000</color>
+    <color name="font">#4c00b0</color>
+    <color name="pencil">#7c40ff</color>
+    <color name="eraser">#92989c</color>
+
+</resources>
