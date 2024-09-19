@@ -14,21 +14,37 @@ https://developer.android.com/studio
 
 Following LoRAs:
 https://civitai.com/models/266665/modernbathroom01
+
 https://civitai.com/models/139460/bedroom-luxury-t1
+
 https://civitai.com/models/127640/hotel-homestay-indoor-and-outdoor
+
 https://civitai.com/models/150389/love-hotel-sd15
+
 https://civitai.com/models/105592/books-and-bookshelves
+
 https://civitai.com/models/164860/end-table
+
 https://civitai.com/models/411232/ldk-living-room-and-dining-room-and-kitchen-sd15
+
 https://civitai.com/models/266670/modernkitchen01
+
 https://civitai.com/models/157471
+
 https://civitai.com/models/159247/cozy-interior-style
+
 https://civitai.com/models/229780/01
+
 https://civitai.com/models/537374/modern-office-sd15
+
 https://civitai.com/models/547405/office-30
+
 https://civitai.com/models/244838/outdoorcouch
+
 https://civitai.com/models/180111/light-oil-painting
+
 https://civitai.com/models/34670/artek-style-furniture
+
 https://civitai.com/models/121653/on-windowsill-or
 
 Instructions:
