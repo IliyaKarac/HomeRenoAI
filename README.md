@@ -49,14 +49,15 @@ https://civitai.com/models/121653/on-windowsill-or
 
 Instructions:
 - Install automatic 1111
-  - Add these arguments to the bat you boot with for example webui-user.bat “--xformers --opt-channelslast --precision full --no-half --api --listen”
-  -open models folder and place Stable Diffusion 1.5 inpaint into the Stable-diffusion folder and the LoRAs into the Lora folder
+- Add these arguments to the bat you boot with for example webui-user.bat “--xformers --opt-channelslast --precision full --no-half --api --listen”
+- 
+-open models folder and place Stable Diffusion 1.5 inpaint into the Stable-diffusion folder and the LoRAs into the Lora folder
 
-  -open the project HomeRenoAI in Android studio and change the url in request page to the local ip of the server and the port
+-open the project HomeRenoAI in Android studio and change the url in request page to the local ip of the server and the port
 
-  -generate apk and install it on your mobile phone
+-generate apk and install it on your mobile phone
 
-  -launch server using the previously selected bat file
+-launch server using the previously selected bat file
 
-  -enjoy 
+-enjoy 
 
